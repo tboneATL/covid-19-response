@@ -5,7 +5,7 @@
 **Atlanta-area friends - we can help!**  
 I've been following some of the developments happening in the global maker community as it relates to COVID-19. Lots of people with 3D printers are trying to help but there are questions. Masks are very much needed, but they can be complicated to make, so I've stayed away from them. 
 
-Instead I am focusing on making face shields which are also in need, especially in ER's and . There are lots of designs out there, but I think the one shown below is the most practical for what we're trying to do. It involves only a plastic frame and some transparency film/sheets that can be snapped on after cutting holes with a 3-hole punch.
+Instead I am focusing on making face shields which are also in need, especially for first responders. There are lots of designs out there, but I think the one shown below is the most practical for what we're trying to do. It involves only a plastic frame and some transparency film/sheets that can be snapped on after cutting holes with a 3-hole punch.
 
 ### How to get involved
 
@@ -19,18 +19,22 @@ if you have a 3D printer and want to help, please read on.
 
 PETG is the preferred plastic if you have it because it can be sterilized easier (I've heard/read), but PLA can work too (I've heard/read). Microcenter in Marietta has rolls of PETG for around $21. I believe they're still open during this shelter in place period, but not sure.
 
-One of the goals here is to find a way to produce as many of these as possible while using readily available materials and tools.  3d priinting works, but is a slow process.  I am looking at ways to produce more using CNC Routers and /or Lasers from flat sheet.  Tha could significantly speed up the process.  For example: https://www.protohaven.org/proto-shield/
+One of the goals here is to find a way to produce as many of these as possible while using readily available materials and tools.  3d printing works, but it is a slow process.  I am looking at ways to produce more frames using CNC Routers and /or Lasers from flat sheet material.  That could significantly speed up the process.  For example: https://www.protohaven.org/proto-shield/
 
 The first model I saw was the Prusa design:  https://help.prusa3d.com/en/category/protective-shields_899  It's a great design but it has a long print time, due to the amount of plastic it requires.  Also, it requires an elastic band be added.
 
-I then found out about the Verkstan (aka Swedish) design.  It is a bit thinner, meaning less print time and is pressure fit for most people.  If needed, elastic can be added.  The source for these is here: https://3dverkstan.se/protective-visor/protective-visor-versions/  but I've copied the STL's to make it easier to share and sort through some of the noise.  (see above)
+I then found out about the Verkstan (aka Swedish) design.  It is a bit thinner, meaning less print time and is pressure fit for most people.  If needed, elastic can be added.  The source for these is here: https://3dverkstan.se/protective-visor/protective-visor-versions/  
+
+NOTE: I've copied the STL's to this repo to make it easier to share and help others get started by sorting through some of the noise. However, designs are evolving rapidly and a better design might emerge soon.
 
 Also, check out this website: www.atlantabeatscovid.com, supported by the Marietta Maker Station and Decatur Makers.  They have a volunteer registration page and are trying to coordinate a larger effort.  I have reached out but not heard back yet.  I  will continue on my current path until they contact me and I can figure out which way to go...in the meantime, I want to keep making as many shields as possible
+
+**IMPORTANT:**  If you're not familar with GitHub (the site that is hosting the page you're reading), you should be aware that this is a public site that anyone on the internet. You can create an account for free and communicate/share/collaborate.  Be mindful with what you post, if you create any [issues](https://github.com/tboneATL/covid-19-response/issues). 
 
 #### The big question
 If you're like me, you want to help but don't want to waste anyone's time and definitely don't want to hurt anyone by creating something that might not work as intended and/or give a false sense of security.  
 
-On Mar 28, we delivered our first batch of shields (38 total).  I am friends with an ER nurse in the busiest trauma center in Atlanta. He explained they had zero shields due to shortages and were given plastic goggles (like you might use to cut some wood) to work in.  
+On Mar 28, I delivered our first batch of shields (38 total).  I am friends with an ER nurse in the busiest trauma center in Atlanta. He explained they had zero shields due to shortages and were given plastic goggles (like you might use to cut some wood) to work in.  
 
 The initial feedback so far has been positive and we are currenlty trying to keep printers running around the clock while we also look at additional scaling options.  
 

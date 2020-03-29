@@ -8,11 +8,24 @@ I've been following some of the developments happening in the global maker commu
 ![image](https://user-images.githubusercontent.com/28732130/77839446-cda6ca00-714a-11ea-9460-1a4e14842591.png)
 
 
-**ATL MAKERS:** if you have a printer and want to help, please let me know. PETG is the preferred plastic because it can be sterilized easier (I've heard/read), but PLA could work too (I've heard/read). Microcenter in Marietta has rolls of PETG for around $21. I believe they're still open, but not sure.
+### ATL MAKERS:
+if you have a 3D printer and want to help, please read on. 
+
+PETG is the preferred plastic if you have it because it can be sterilized easier (I've heard/read), but PLA can work too (I've heard/read). Microcenter in Marietta has rolls of PETG for around $21. I believe they're still open during this shelter in place period, but not sure.
+
+One of the goals here is to find a way to produce as many of these as possible while using readily available materials and tools.  3d priinting works, but is a slow process.  I am looking at ways to produce more using CNC Routers and /or Lasers from flat sheet.  Tha could significantly speed up the process.
+
+The first model I saw was the Prusa design:  https://help.prusa3d.com/en/category/protective-shields_899  It's a great design but it has a long print time, due to the amount of plastic it requires.  Also, it requires an elastic band be added.
+
+I then found out about the Verkstan (aka Swedish) design.  It is a bit thinner, meaning less print time and is pressure fit for most people.  If needed, elastic can be added.  The source for these is here: https://3dverkstan.se/protective-visor/protective-visor-versions/  but I've copied the STL's to make it easier to share and sort through some of the noise.  (see code section)
+
+
+
 
 Also, check out this website www.atlantabeatscovid.com, supported by the Marietta Maker Station and Decatur Makers.  They have a volunteer registration page and are trying to coordinate a larger effort.  I have reached out but will continue on my current path until they contact me and I can figure out which way to go...in the meantime, I want to keep making as many shields as possible
 
-**ATL-AREA MEDICAL PROFESSIONALS:** We've been looking for takers for the shields and have found a couple of outlets. My friend Edgar Aceves work in Trauma at Grady. My friend Sheri Chernetsky Tejedor works at the CDC/Emory and they are sharing face shields.
+### ATL-AREA MEDICAL PROFESSIONALS:
+We are connected with some local ER nurses and delivered our first batch of nearly 40 shields on Mar 29.  They are in short supply and were grateful to have them.  I attached this [note](Documents/Important-info-for-face-shields.md) to them
 
 If you work in industry or know someone else that needs face shields, please chime in.
 

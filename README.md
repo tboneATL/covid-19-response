@@ -9,9 +9,9 @@ Instead I am focusing on making face shields which are also in need, especially 
 
 Here are the numbers I know about from the local makers I'm connected to:
 
-| As of | Produced | 
-| --- | --- | --- | 
-| Mar 29 | 140 | 
+| As of | Produced |   
+| --- | --- |   
+| Mar 29 | 140 |  
 
 
 ### Latest Updates

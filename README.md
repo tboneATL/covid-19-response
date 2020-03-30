@@ -1,5 +1,13 @@
-### COVID 19 Face Shields for Atlanta
 
+## COVID 19 Face Shields for Atlanta
+
+### Latest Updates
+
+[![image](https://user-images.githubusercontent.com/28732130/77885580-45512380-7235-11ea-9423-1dd98a36582c.png)](timeline.md)
+
+A detailed timeline and findings can be found [here](timeline.md)
+
+--- 
 ### tl;dr
 
 **Atlanta-area friends - we can help!**  
@@ -13,13 +21,9 @@ Here are the numbers I know about from the local makers I'm connected to:
 | --- | --- |   
 | Mar 29 | 140 |  
 
+I've got 2 printers going now and have been able to optimize a few things to get maybe 50+ in a day.  I have some PETG sheet arriving Wed that might allow for more scale with a different process.
 
-### Latest Updates
-
-Mar 29 - Created 
-
-Read more updates here.
-
+---
 
 ### How to get involved
 
@@ -75,9 +79,13 @@ Please read that note to decide if these could work for your environment.  You s
 
 If you work in industry or know someone else that needs face shields, please chime in.
 
-### OTHERS: 
+### OTHERS THAT WANT TO HELP: 
 There may be more ways to help, depending on how this goes. Donating and/or helping find supplies might be helpful as some of the materials might become harder to find. 
 
-I'm trying to help as I can but still have a day job to keep up with... fortunately, Cris and the girls are very capable and have time and skills to keep things going. 
+### FEEDBACK
+
+If you want to get in touch, please open an Issue, using the link above.
+
+---
 
 -toby.      

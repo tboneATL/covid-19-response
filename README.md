@@ -7,6 +7,20 @@ I've been following some of the developments happening in the global maker commu
 
 Instead I am focusing on making face shields which are also in need, especially for first responders. There are lots of designs out there, but I think the one shown below is the most practical for what we're trying to do. It involves only a plastic frame and some transparency film/sheets that can be snapped on after cutting holes with a 3-hole punch.
 
+Here are the numbers I know about from the local makers I'm connected to:
+
+| As of | Produced | 
+| --- | --- | --- | 
+| Mar 29 | 140 | 
+
+
+### Latest Updates
+
+Mar 29 - Created 
+
+Read more updates here.
+
+
 ### How to get involved
 
 As others are asking to get involved, I wanted to try and document some of the basic info here in this repo in an effort to increase efficiency and reduce reptitive conversations. 

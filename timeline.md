@@ -71,7 +71,7 @@ Already printing the next batch.  Elena and I work on getting the laser tuned in
 
 I get a request to deliver 60 for 2 ERs by Monday.  If we can get the laser running, it opens up possibilies of producing more using a different design/process.  This one looks promising.  It uses flexible flat sheet for the headband and an elastic strap: 
 
-![image](https://user-images.githubusercontent.com/28732130/77881661-70d01000-722d-11ea-87e2-9a0bdb3d99b9.png)
+[![image](https://user-images.githubusercontent.com/28732130/77881661-70d01000-722d-11ea-87e2-9a0bdb3d99b9.png)](https://www.protohaven.org/proto-shield/)
 
 
 ---

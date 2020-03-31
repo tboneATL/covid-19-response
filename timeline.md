@@ -12,11 +12,11 @@ _Also, things are constantly changing with respect to the various designs.  I wa
 Ran Elena's stack over night - good looking print at first glance
 ![image](https://user-images.githubusercontent.com/28732130/77984198-e0ea9e80-72de-11ea-9df0-98ef67e97bbe.png)
 
-**Problem**:  These are sticking together more than the other design.  Not sure why that is, but it's a challenge to pull them apart without breaking them... lost 3 or 4 learning that lesson. 
+**Problem**:  These are sticking together more than the other design.  Not sure why that is, but it's a challenge to pull them apart without breaking them... lost 3 or 4 learning that lesson. More detail [here](https://github.com/tboneATL/covid-19-response/issues/1#issuecomment-606384990).
 
 Really need to figure this out.  A clean, stackable print will help this scale.  Printing 2UP all day since we have a house full of people that can swap the prints when it's time.
 
-Our friend Tatiana is picking up 60 today.  30 for her hospital and 30 for another ER in a nearby town.  She agrees to get some feedback.
+Our friend Tatiana picks up 60 today.  30 for her hospital and 30 for another ER in a nearby town.  She agrees to get some feedback.
 
 A few hours later. she shares this with me:
 

@@ -17,9 +17,9 @@ Instead I am focusing on making face shields which are also in need, especially 
 
 Here are the numbers I know about from the local makers I'm connected to:
 
-| As of | Produced |   
+| As of | Delivered |   
 | --- | --- |   
-| Mar 29 | 140 |  
+| Mar 31 | 98    |  
 
 I've got 2 printers going now and have been able to optimize a few things to get maybe 50+ in a day.  I have some PETG sheet arriving Wed that might allow for more scale with a different process.
 

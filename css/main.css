@@ -1301,7 +1301,7 @@ ul.actions {
   display: -moz-flex;
   display: -webkit-flex;
   display: -ms-flex;
-  display: flex;
+  display: block;
   cursor: default;
   list-style: none;
   margin-left: -1em;
@@ -1484,7 +1484,7 @@ table {
     table.alt tfoot {
       border-top: 0; }
 
-     
+
 
 /* Button */
 input[type="submit"],
@@ -1514,6 +1514,7 @@ button,
   letter-spacing: 0.075em;
   line-height: 3.5em;
   padding: 0 2.25em;
+  margin-top: 1em;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
@@ -1681,7 +1682,7 @@ button,
       width: 100%; }
       .features article .content > :last-child {
         margin-bottom: 0; }
-  @media screen and (max-width: 980px) {
+  @media screen and (max-width: 1450px) {
     .features {
       margin: 0 0 2em 0;
       width: 100%; }

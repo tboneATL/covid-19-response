@@ -130,9 +130,11 @@ em, i {
 p {
   margin: 0 0 2em 0; }
 
- #banner2 p, h1, h2, h3, h4, h5, h6{
+ #disclaimer p, #disclaimer a, #disclaimer strong{
       margin:0 0 0em 0;
       padding: 0 0 -2em 0;
+      color: #FFF;
+
   }
 
 
@@ -1682,7 +1684,7 @@ button,
       width: 100%; }
       .features article .content > :last-child {
         margin-bottom: 0; }
-  @media screen and (max-width: 950) {
+  @media screen and (max-width: 950px) {
     .features {
       margin: 0 0 2em 0;
       width: 100%; }
@@ -2123,9 +2125,13 @@ button,
   display: -webkit-flex;
   display: -ms-flex;
   display: flex; }
-  #banner2{
+  #disclaimer{
+      font-size: 1.25em;
       padding: 0em 0 0em 0 ;
-
+      margin: 0em 0em -2em 0em;
+      background-color:red;
+      padding: 1em;
+      text-align: center;
   }
   #banner h1 {
     margin-top: -0.125em; }

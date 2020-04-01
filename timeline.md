@@ -1,10 +1,47 @@
 ## Timeline / Updates
-_I'm attempting to keep a rough journal to make this easier for friends to follow and share what we're learning along the way with strangers that might be doing the same thing. Many are asking how they can help/if they can help.  Reading this detail might inspire some and give them ideas on ways to possibly help._
+_I'm attempting to keep a rough journal to make this easier for friends to follow and share what we're learning along the way with strangers that might be doing the same thing in their town. Many are asking how they can help/if they can help.  Reading this detail might inspire some and give them ideas on ways to possibly help. Keeping this journal is also a weird way to relieve some stress from the past 5 days since this we started making the shields_
 
 _Also, things are constantly changing with respect to the various designs.  I want to explain my position on the designs I'm currently using through the experiences outlined below._
 
 [Return to repo](https://github.com/tboneATL/covid-19-response#covid-19-face-shields-for-atlanta
 )
+
+---
+### Mar 30 - Mon
+
+Ran Elena's stack over night - good looking print at first glance
+![image](https://user-images.githubusercontent.com/28732130/77984198-e0ea9e80-72de-11ea-9df0-98ef67e97bbe.png)
+
+**Problem**:  These are sticking together more than the other design.  Not sure why that is, but it's a challenge to pull them apart without breaking them... lost 3 or 4 learning that lesson. More detail [here](https://github.com/tboneATL/covid-19-response/issues/1#issuecomment-606384990).
+
+Really need to figure this out.  A clean, stackable print will help this scale.  Printing 2UP all day since we have a house full of people that can swap the prints when it's time.
+
+Our friend Tatiana picks up 60 today.  30 for her hospital and 30 for another ER in a nearby town.  She agrees to get some feedback.
+
+A few hours later. she shares this with me:
+
+![image](https://user-images.githubusercontent.com/28732130/77990912-8ce8b580-72f0-11ea-92d7-94991f6192a2.png)
+
+I'm not looking for money, but it's nice to know these are helpful.  **It's also a bit daunting**.  It's now even more clear that we need to scale up.  How to scale?
+- Optimize prints:  This will only help slightly
+- Find a different process to compliment the current one.  If we can cut these from flat sheets vs 3D printing them then we could produce a lot more.  I ordered some PETG sheets from McMaster on Saturday.  Scheduled to arrive Tuesday or Wed.
+- Add more printers by getting more people involved.  That has it's own set of challenges with respect to coordination.  
+
+I discuss with Cris and Elena - Elena is going to put together some basic web pages to share info for people with printers.  We're wanting to share and inform so others can act locally.  We're not wanting to organize and administrate a group.
+
+Cris will take more of a project management role and help coordinate, keep printers moving, etc.
+
+Anthony Aragues shared this [map](https://www.prusaprinters.org/world) that shows (known) Prusa brand 3d printers in our area.  There are countless other brands:
+![image](https://user-images.githubusercontent.com/28732130/77991600-5e6bda00-72f2-11ea-93b3-03201cc60a7e.png)
+
+If you have a 3d printer or know someone that does, point them here. If they are experienced with 3d printing, then the info we've assembled so far should help get them started.   I am working on a 'Getting started' guide that might help someone that is not as experienced with it.
+
+
+
+
+
+
+
 
 ---
 ### Mar 29 - Sun

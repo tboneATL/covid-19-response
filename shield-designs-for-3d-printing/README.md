@@ -28,7 +28,7 @@ https://github.com/tboneATL/covid-19-response/issues/1
 
 |Current   |Date   |Style  | Comments  |
 |---  |---|---|---|
-| X  |Mar 31   | [Zacca Remix2](/https://github.com/tboneATL/covid-19-response/tree/master/shield-designs-for-3d-printing/Zaccanigno-Remix)  | AZ removed lip and thickened the bar.  Running both printers with stacks of 20.  Great results.  |
+| X  |Mar 31   | [Zacca Remix2](https://github.com/tboneATL/covid-19-response/tree/master/shield-designs-for-3d-printing/Zaccanigno-Remix)  | AZ removed lip and thickened the bar.  Running both printers with stacks of 20.  Great results.  |
 |   |Mar 30   | Zacca Remix  | Andrea Zaccagnino graciously modified this design for me.  Switched from solid brow to mostly open design  |
 |   |Mar 28   | Verkstan  | Less material = faster prints = more shields. Press fit.  Can add elastic if needed.  Printed 60 or so of these before changing design. Using stack prints to optimize, but this print doesn't fare well with stacked prints. |
 |   |Mar 27   | Prusa RC3   | Popular design, slow prints because of thickness.  Requires elastic band.   |

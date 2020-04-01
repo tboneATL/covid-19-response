@@ -1682,7 +1682,7 @@ button,
       width: 100%; }
       .features article .content > :last-child {
         margin-bottom: 0; }
-  @media screen and (max-width: 1450px) {
+  @media screen and (max-width: 950) {
     .features {
       margin: 0 0 2em 0;
       width: 100%; }

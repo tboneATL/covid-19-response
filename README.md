@@ -3,6 +3,8 @@ _I'm attempting to keep a rough journal to make this easier for friends to follo
 
 _Also, things are constantly changing with respect to the various designs.  I want to explain my position on the designs I'm currently using through the experiences outlined below._
 
+### Browse files above or go to the latest we're using [here](https://github.com/tboneATL/covid-19-response/tree/master/shield-designs-for-3d-printing#latest)
+
 ---
 ### Mar 31 - Tue
 

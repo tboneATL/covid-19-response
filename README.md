@@ -10,6 +10,11 @@ _Also, things are constantly changing with respect to the various designs.  I wa
 
 Tatiana picked up 90 kits for Tanner.  Feeling like production is going well but lots of people with questions, so need to update the web page to be more comprehensive.  More later...
 
+![image](https://user-images.githubusercontent.com/28732130/78291640-b9b8ea80-74f3-11ea-8f91-be8facb18854.png)
+
+
+
+
 ---
 ### Apr 1 - Wed
 

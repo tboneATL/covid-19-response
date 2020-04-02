@@ -6,6 +6,19 @@ _Also, things are constantly changing with respect to the various designs.  I wa
 ### Browse files above or go to the latest we're using [here](https://github.com/tboneATL/covid-19-response/tree/master/shield-designs-for-3d-printing#latest)
 
 ---
+### Apr 1 - Wed
+
+Optimized even more the process and design.. Basically both printers running stacks of 20 each in about 10 hours, so roughly 80-90 per day.  Quality is good overall , but the PETG stacking isn't as clean as the PLA and takes more post-processing. 
+
+Ryan Caskey has been iterating on another design - letting it run overnight to see how it does.  I think it will be a winner though (Caskey-Remix)
+
+[![image](https://user-images.githubusercontent.com/28732130/78290658-0c91a280-74f2-11ea-89ad-db795157b15b.png)](https://www.youtube.com/embed/ubGB5pTJx_4)
+
+Office Depot delivery arrived - have about 600 sheets of film now.
+
+Cris - tweaking process of disinfecting and laser-cutting the shields
+
+---
 ### Mar 31 - Tue
 
 ![image](https://user-images.githubusercontent.com/28732130/78118087-7a47ac80-73d4-11ea-9f06-c4a6c5b1866f.png)

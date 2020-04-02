@@ -2124,7 +2124,12 @@ button,
   display: -moz-flex;
   display: -webkit-flex;
   display: -ms-flex;
-  display: flex; }
+  display: flex;
+  -moz-flex-direction: column;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+ }
   #disclaimer{
       font-size: 1.25em;
       padding: 0em 0 0em 0 ;
@@ -2135,28 +2140,7 @@ button,
   }
   #banner h1 {
     margin-top: -0.125em; }
-  #banner .content {
-    -moz-flex-grow: 1;
-    -webkit-flex-grow: 1;
-    -ms-flex-grow: 1;
-    flex-grow: 1;
-    -moz-flex-shrink: 1;
-    -webkit-flex-shrink: 1;
-    -ms-flex-shrink: 1;
-    flex-shrink: 1;
-    width: 25%; }
-  #banner .image {
-    -moz-flex-grow: 0;
-    -webkit-flex-grow: 0;
-    -ms-flex-grow: 0;
-    flex-grow: 0;
-    -moz-flex-shrink: 0;
-    -webkit-flex-shrink: 0;
-    -ms-flex-shrink: 0;
-    flex-shrink: 0;
-    display: block;
-    margin: 0 0 2em 4em;
-    width: 50%; }
+
     #banner .image img {
       height: 100%;
       -moz-object-fit: cover;
@@ -2168,43 +2152,72 @@ button,
       -ms-object-position: center;
       object-position: center;
       width: 100%; }
+
+        #banner h1 br {
+          display: none; }
+        #banner .content {
+          -moz-flex-direction: row;
+          -webkit-flex-direction: row;
+          -ms-flex-direction: row;
+          flex-direction: row;
+          -moz-flex-grow: 0;
+          -webkit-flex-grow: 0;
+          -ms-flex-grow: 0;
+          flex-grow: 0;
+          -moz-flex-shrink: 0;
+          -webkit-flex-shrink: 0;
+          -ms-flex-shrink: 0;
+          flex-shrink: 0;
+          width: inherit; }
+        #banner .image {
+          -moz-flex-grow: 0;
+          -webkit-flex-grow: 0;
+          -ms-flex-grow: 0;
+          flex-grow: 0;
+          -moz-flex-shrink: 0;
+          -webkit-flex-shrink: 0;
+          -ms-flex-shrink: 0;
+          flex-shrink: 0;
+          margin: 0 0 1em 0;
+          display: inline-block;
+          width: 30%;
+          max-width: 25em;
+          min-width: 10em;
+          height: auto; }
   @media screen and (orientation: portrait) {
-    #banner {
-      -moz-flex-direction: column-reverse;
-      -webkit-flex-direction: column-reverse;
-      -ms-flex-direction: column-reverse;
-      flex-direction: column-reverse; }
-      #banner h1 br {
-        display: none; }
-      #banner .content {
-        -moz-flex-direction: row;
-        -webkit-flex-direction: row;
-        -ms-flex-direction: row;
-        flex-direction: row;
-        -moz-flex-grow: 0;
-        -webkit-flex-grow: 0;
-        -ms-flex-grow: 0;
-        flex-grow: 0;
-        -moz-flex-shrink: 0;
-        -webkit-flex-shrink: 0;
-        -ms-flex-shrink: 0;
-        flex-shrink: 0;
-        width: inherit; }
-      #banner .image {
-        -moz-flex-grow: 0;
-        -webkit-flex-grow: 0;
-        -ms-flex-grow: 0;
-        flex-grow: 0;
-        -moz-flex-shrink: 0;
-        -webkit-flex-shrink: 0;
-        -ms-flex-shrink: 0;
-        flex-shrink: 0;
-        margin: 0 0 1em 0;
-        display: inline-block;
-        width: 30%;
-        max-width: 25em;
-        min-width: 10em;
-        height: auto; } }
+      #banner {
+         }
+        #banner h1 br {
+          display: none; }
+        #banner .content {
+          -moz-flex-direction: row;
+          -webkit-flex-direction: row;
+          -ms-flex-direction: row;
+          flex-direction: row;
+          -moz-flex-grow: 0;
+          -webkit-flex-grow: 0;
+          -ms-flex-grow: 0;
+          flex-grow: 0;
+          -moz-flex-shrink: 0;
+          -webkit-flex-shrink: 0;
+          -ms-flex-shrink: 0;
+          flex-shrink: 0;
+          width: inherit; }
+        #banner .image {
+          -moz-flex-grow: 0;
+          -webkit-flex-grow: 0;
+          -ms-flex-grow: 0;
+          flex-grow: 0;
+          -moz-flex-shrink: 0;
+          -webkit-flex-shrink: 0;
+          -ms-flex-shrink: 0;
+          flex-shrink: 0;
+          margin: 0 0 1em 0;
+          display: inline-block;
+          width: 30%;
+          max-width: 25em;
+          min-width: 10em;
+          height: auto; } }
   @media screen and (orientation: portrait) and (max-width: 480px) {
     #banner .image {
         height: auto;

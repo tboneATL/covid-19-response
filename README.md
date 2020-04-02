@@ -6,6 +6,11 @@ _Also, things are constantly changing with respect to the various designs.  I wa
 ### Browse files above or go to the latest we're using [here](https://github.com/tboneATL/covid-19-response/tree/master/shield-designs-for-3d-printing#latest)
 
 ---
+### Apr 2 - Thu
+
+Tatiana picked up 90 kits for Tanner.  Feeling like production is going well but lots of people with questions, so need to update the web page to be more comprehensive.  More later...
+
+---
 ### Apr 1 - Wed
 
 Optimized even more the process and design.. Basically both printers running stacks of 20 each in about 10 hours, so roughly 80-90 per day.  Quality is good overall , but the PETG stacking isn't as clean as the PLA and takes more post-processing. 

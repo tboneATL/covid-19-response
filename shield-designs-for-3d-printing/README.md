@@ -28,7 +28,7 @@ More detail on how we came to this design:
 https://github.com/tboneATL/covid-19-response/issues/1
 
 |Current   |Date   |Style  | 
-|---  |---|---|---|
+|---  |---|---|
 | X  |Apr 2   | Caskey Remix  | 
 |   |Mar 31   | Zacca Remix2  | 
 |   |Mar 30   | Zacca Remix  | 

@@ -1,6 +1,8 @@
 
 # Latest 
 
+## NOTE: We are currently seeing mixed results with this model. PETG is difficult to separate without breaking for us.  PLA is working.  Anyone trying to print a stacked version of this should test first.  (Kill a print after 2 or 3 have printed and pull them apart.  If it works, you have a few usable frames and can print a full stack with more confidence.)
+
 
 ### Best current design set working for us:  Caskey-Remix (see above)
 

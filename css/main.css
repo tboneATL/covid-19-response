@@ -128,7 +128,8 @@ em, i {
   font-style: italic; }
 
 p {
-  margin: 0 0 2em 0; }
+  margin: 0 0 2em 0;
+    font-size: 1.25em;}
 
  #disclaimer p, #disclaimer a, #disclaimer strong{
       margin:0 0 0em 0;
@@ -999,7 +1000,7 @@ section.special, article.special {
 
 header p {
   font-family: "Roboto Slab", serif;
-  font-size: 1em;
+  font-size: 1.5em;
   font-weight: 400;
   letter-spacing: 0.075em;
   margin-top: -0.5em;
@@ -1276,7 +1277,8 @@ ol {
 ul {
   list-style: disc;
   margin: 0 0 2em 0;
-  padding-left: 1em; }
+  padding-left: 1em;
+    font-size: 1.25;}
   ul li {
     padding-left: 0.5em; }
   ul.alt {
@@ -2168,12 +2170,13 @@ button,
       -ms-object-position: center;
       object-position: center;
       width: 100%; }
+
   @media screen and (orientation: portrait) {
     #banner {
-      -moz-flex-direction: column-reverse;
-      -webkit-flex-direction: column-reverse;
-      -ms-flex-direction: column-reverse;
-      flex-direction: column-reverse; }
+      -moz-flex-direction: column;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column; }
       #banner h1 br {
         display: none; }
       #banner .content {

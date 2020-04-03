@@ -4,7 +4,7 @@
 ## NOTE: We are currently seeing mixed results with this model. PETG is difficult to separate without breaking for us.  PLA is working.  Anyone trying to print a stacked version of this should test first.  (Kill a print after 2 or 3 have printed and pull them apart.  If it works, you have a few usable frames and can print a full stack with more confidence.)
 
 
-### Best current design set working for us:  Caskey-Remix (see above)
+### Best current design set working for us:  Caskey-Remix (see above) and Zacca Remix2
 
 ![image](https://user-images.githubusercontent.com/28732130/78292134-96426f80-74f4-11ea-827d-4fd48cb7109e.png)
 
@@ -30,7 +30,7 @@ https://github.com/tboneATL/covid-19-response/issues/1
 |Current   |Date   |Style  | 
 |---  |---|---|
 | X  |Apr 2   | Caskey Remix  | 
-|   |Mar 31   | Zacca Remix2  | 
+| X |Mar 31   | Zacca Remix2  | 
 |   |Mar 30   | Zacca Remix  | 
 |   |Mar 28   | Verkstan  | 
 |   |Mar 27   | Prusa RC3   | 

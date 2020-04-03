@@ -22,6 +22,10 @@ section, summary, time, mark, audio, video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline; }
+  img{
+  max-width: 100%;
+ height: auto;
+  }
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -31,10 +35,12 @@ body {
   line-height: 1; }
 
 ol, ul {
-  list-style: none; }
+  list-style: none;
+font-size: 1.1em; }
 
 blockquote, q {
-  quotes: none; }
+  quotes: none;
+font-size: 1.1em;}
   blockquote:before, blockquote:after, q:before, q:after {
     content: '';
     content: none; }
@@ -129,7 +135,7 @@ em, i {
 
 p {
   margin: 0 0 2em 0;
-    font-size: 1.25em;}
+    font-size: 1.1em;}
 
  #disclaimer p, #disclaimer a, #disclaimer strong{
       margin:0 0 0em 0;
@@ -1224,9 +1230,12 @@ input[type="radio"] + label:before {
   border-radius: 0.375em;
   border: 0;
   display: inline-block;
-  position: relative; }
+  position: relative;
+}
   .image img {
     border-radius: 0.375em;
+    max-width: 100%;
+    height: auto;
     display: block; }
   .image.left, .image.right {
     max-width: 40%; }
@@ -1870,7 +1879,8 @@ button,
   #main > .inner {
     padding: 0 6em 0.1em 6em ;
     margin: 0 auto;
-    max-width: 110em; }
+    max-width: 80em;
+    float: left;}
     #main > .inner > section {
       padding: 6em 0 4em 0 ;
       border-top: solid 2px rgba(210, 215, 217, 0.75); }

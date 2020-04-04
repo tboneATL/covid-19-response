@@ -1033,6 +1033,17 @@ header.major > :last-child {
 header.main > :last-child {
   margin: 0 0 1em 0; }
 
+
+  section .question{
+      font-family: "Roboto Slab", serif;
+      font-size: 1.1em;
+      color:#000;
+      margin-bottom: 0em;
+  }
+  section .answer{
+      font-size: 1.1em;
+  }
+
 /* Form */
 form {
   margin: 0 0 2em 0; }

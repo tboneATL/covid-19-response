@@ -1,4 +1,4 @@
-@sparkyc - contributed this modification of the Zacca2 Remix.  It has ridged tops to help with stacking, as well as a perimeter ridge on the bottom to aid in removal.
+@rsparkyc - contributed this modification of the Zacca2 Remix.  It has ridged tops to help with stacking, as well as a perimeter ridge on the bottom to aid in removal.
 
 See [this thread](https://github.com/tboneATL/covid-19-response/issues/1) and [this thread](https://github.com/tboneATL/covid-19-response/pull/11) for more detail.
 

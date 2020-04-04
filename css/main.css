@@ -2263,9 +2263,7 @@ button,
     #banner .image {
         height: auto;
         width: 25em;  } }
-      @media screen and (orientation: portrait) and (max-width: 500px) {
-        #banner .image {
-          } }
+
 
 
 /* Footer */

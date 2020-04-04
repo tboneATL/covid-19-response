@@ -26,6 +26,9 @@ section, summary, time, mark, audio, video {
   max-width: 100%;
  height: auto;
   }
+  html{
+     width: inherit;
+  }
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -190,6 +193,15 @@ h6 {
     line-height: 1.4; }
   h2 {
     font-size: 1.5em; } }
+@media screen and (max-width: 505px) {
+      h1 {
+        font-size: 2em;
+        line-height: 1.4; }
+      h2 {
+        font-size: 1.5em; }
+    header p {
+        font-size: 1.1em;
+        } }
 
 sub {
   font-size: 0.8em;
@@ -1875,7 +1887,7 @@ button,
   -webkit-flex-shrink: 1;
   -ms-flex-shrink: 1;
   flex-shrink: 1;
-  width: 100%; }
+  max-width: 100%; }
   #main > .inner {
     padding: 0 6em 0.1em 6em ;
     margin: 0 auto;
@@ -1901,6 +1913,12 @@ button,
       padding: 0 2em 0.1em 2em ; }
       #main > .inner > section {
         padding: 3em 0 1em 0 ; } }
+@media screen and (max-width: 505px) {
+          #main > .inner {
+            padding: 0 1em 0.1em 1em ;
+        max-width: 37em}
+            #main > .inner > section {
+              padding: 2em 0 0em 0 ; } }
 
 /* Sidebar */
 #search form {
@@ -2129,6 +2147,18 @@ button,
         position: absolute;
         right: -0.5em;
         top: 0; } }
+        @media screen and (max-width: 505px) {
+          #header {
+            padding-top: 6.5em; }
+            #header .logo {
+              font-size: 1.2em;
+              margin: 0; }
+            #header .icons {
+              height: 1em;
+              line-height: 5em;
+              position: absolute;
+              right: -0.5em;
+              top: 0; } }
 
 /* Banner */
 #banner {
